@@ -23,6 +23,8 @@ lib/ └── src/ ├── domain/          ← Entities and Use Cases ├─
 - Reusable widgets (`CustomButton`, `AppBarWidget`)
 - State management using `Bloc` or `Cubit`
 
+
+https://github.com/user-attachments/assets/1cdd8e6b-3e99-4af6-b789-b40788027837
 ---
 
 ## 🚀 Getting Started
@@ -32,6 +34,6 @@ flutter pub get
 flutter run
 
 
-https://github.com/user-attachments/assets/1cdd8e6b-3e99-4af6-b789-b40788027837
+
 
 
