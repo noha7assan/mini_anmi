@@ -24,7 +24,10 @@ lib/ └── src/ ├── domain/          ← Entities and Use Cases ├─
 - State management using `Bloc` or `Cubit`
 
 
-https://github.com/user-attachments/assets/1cdd8e6b-3e99-4af6-b789-b40788027837
+https://github.com/user-attachments/assets/a103d0d2-adad-4492-b73e-4cd001059f5e
+
+
+
 ---
 
 ## 🚀 Getting Started
